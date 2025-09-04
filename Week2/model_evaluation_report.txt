@@ -1,0 +1,8 @@
+Model Evaluation Report - Week 2
+========================================
+Linear Regression:
+ MAE=45.11, MSE=2936.98, R²=-0.01
+
+Random Forest:
+ MAE=47.79, MSE=3354.00, R²=-0.15
+
